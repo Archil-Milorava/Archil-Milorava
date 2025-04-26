@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="center">🔭 Currently crafting my Personal Blog.<br>👯 Building Design & Code Community.<br>👨‍💻 Explore my diverse projects at MYportfoli.com<br>💬 Ask me about Web Development, UI/UX Design.<br>📫 Reach out to me at: achimilorava16@gmail.com<br>📄 Dive into my experiences with my Resume: here</h4>
+<h4 align="center">🔭 Currently crafting my [Personal Blog](https://github.com/Archil-Milorava/my-opinion).<br>👯 Building Design & Code Community.<br>👨‍💻 Explore my diverse projects at MYportfoli.com](MYportfoli.com)<br>💬 Ask me about Web Development.<br>📫 Reach out to me at: **achimilorava16@gmail.com**<br>📄 Dive into my experiences with my Resume: [here](here)
 
 ###
 
