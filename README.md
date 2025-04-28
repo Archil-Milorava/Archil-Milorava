@@ -1,23 +1,3 @@
-<h1 align="left">Hey 👋 I'm Archil Milorava</h1>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<div align="center">
-  <img height="191" src="https://raw.githubusercontent.com/DevrajDC/DevrajDC/main/developer.gif"  />
-</div>
-
-###
-
-<h4 align="center">🔭 Currently crafting my [Personal Blog](https://github.com/Archil-Milorava/my-opinion).<br>👯 Building Design & Code Community.<br>👨‍💻 Explore my diverse projects at MYportfoli.com](MYportfoli.com)<br>💬 Ask me about Web Development.<br>📫 Reach out to me at: **achimilorava16@gmail.com**<br>📄 Dive into my experiences with my Resume: [here](here)
-
-###
-
-<h2 align="left">💻 Tech Backpack</h2>
-
 ###
 
 <div align="left">
